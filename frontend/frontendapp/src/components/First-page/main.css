@@ -1,0 +1,13 @@
+.right-one {
+  border: 1px solid red;
+  background-position: center;
+  background-size: cover;
+  width: 80%;
+  position: relative;
+  height: 655px;
+}
+
+.page{
+    margin-right: 1.2%;
+}
+
